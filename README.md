@@ -96,7 +96,7 @@ zumgarden-clone/
 ## 👤 Author
 
 **Muhammad**  
-GitHub: [@CHAUDHARY49](https://github.com/CHAUDHARY49)
+GitHub: [@muhammadabdullahsaif49](https://github.com/muhammadabdullahsaif49)
 
 ---
 
